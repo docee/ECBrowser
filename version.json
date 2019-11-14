@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 0,
-  "latestVersionStr": "1.1.0.0",
-  "whatIsUpdated": "软件测试",
-  "downloadURL": "https://github.com/docee/ECBrowser/releases/download/v1.0.0.0/v1.0.0.0.zip"
+  "latestVersionCode": 1,
+  "latestVersionStr": "1.2.0.0",
+  "whatIsUpdated": "1. 修复CSV导入UserAgent没有随机生成的Bug\n2. 增加多选批量删除功能\n3. 增加过滤器\n4. 增加查找功能",
+  "downloadURL": "https://github.com/docee/ECBrowser/releases/download/v1.2/v1.2.zip"
 }

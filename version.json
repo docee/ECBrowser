@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 3,
-  "latestVersionStr": "1.2.2.0",
+  "latestVersionCode": 4,
+  "latestVersionStr": "1.2.2.1",
   "whatIsUpdated": "1.修复打开后会自动隐藏的问题",
-  "downloadURL": "https://github.com/docee/ECBrowser/releases/download/v1.2.2/Upgrader.zip"
+  "downloadURL": "https://github.com/docee/ECBrowser/releases/download/v1.2.2.1/Upgrader.zip"
 }

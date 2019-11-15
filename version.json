@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionStr": "1.2.0.0",
-  "whatIsUpdated": "1. 修复CSV导入UserAgent没有随机生成的Bug\n2. 增加多选批量删除功能\n3. 增加过滤器\n4. 增加查找功能",
-  "downloadURL": "https://github.com/docee/ECBrowser/releases/download/v1.2/v1.2.zip"
+  "latestVersionCode": 2,
+  "latestVersionStr": "1.2.1.0",
+  "whatIsUpdated": "1.修复CSV导入格式错误时崩溃的问题\n2.修复右击表格第一列时崩溃的问题\n3.增加双击表格打开编辑窗的功能",
+  "downloadURL": "https://github.com/docee/ECBrowser/releases/download/v1.2.1/Upgrader.zip"
 }

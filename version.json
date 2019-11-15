@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionStr": "1.2.1.0",
-  "whatIsUpdated": "1.修复CSV导入格式错误时崩溃的问题\n2.修复右击表格第一列时崩溃的问题\n3.增加双击表格打开编辑窗的功能",
-  "downloadURL": "https://github.com/docee/ECBrowser/releases/download/v1.2.1/Upgrader.zip"
+  "latestVersionCode": 3,
+  "latestVersionStr": "1.2.2.0",
+  "whatIsUpdated": "1.修复打开后会自动隐藏的问题",
+  "downloadURL": "https://github.com/docee/ECBrowser/releases/download/v1.2.2/Upgrader.zip"
 }

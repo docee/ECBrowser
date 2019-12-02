@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 4,
-  "latestVersionStr": "1.2.2.1",
-  "whatIsUpdated": "1.修复打开后会自动隐藏的问题",
-  "downloadURL": "https://github.com/docee/ECBrowser/releases/download/v1.2.2.1/Upgrader.zip"
+  "latestVersionCode": 5,
+  "latestVersionStr": "1.3.0",
+  "whatIsUpdated": "1. 支持Cookies查看\n2. 修复关闭浏览器时进程卡住的问题\n3. 支持释放IP\n4. 增加套餐信息显示",
+  "downloadURL": "https://github.com/docee/ECBrowser/releases/download/v1.3.0/Upgrader.zip"
 }
